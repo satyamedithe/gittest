@@ -5,11 +5,14 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
 import org.springframework.web.client.RestTemplate;
 
+import com.telstra.codechallenge.softvisiongitrepo.GitHubTestObject;
+
 @SpringBootApplication
 public class MicroServiceMain {
 
   public static void main(String[] args) {
     SpringApplication.run(MicroServiceMain.class, args);
+   
   }
 
   @Bean
