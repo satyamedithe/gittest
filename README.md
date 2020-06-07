@@ -8,7 +8,7 @@ Steps to run the application
 
 >>run the MicroServiceMain.java class are java application
 
->>once tomcat starts running please goto localhost:8080
+>>once tomcat starts running please goto  localhost:8080
 
 >>the below endpoint will give the desired outcome
 
