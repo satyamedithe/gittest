@@ -1,12 +1,17 @@
 #GITHUB API REPOSITORY REST ENDPOINT 
 
-Please download the file 
+Steps to run the application
 
-run the MicroServiceMain.java class are java application
+>>Please download the file 
 
-once running please goto localhost:8080
+>> Import the application as Maven application using eclipse.
 
-the below endpoint 
+>>run the MicroServiceMain.java class are java application
+
+>>once tomcat starts running please goto localhost:8080
+
+>>the below endpoint will give the desired outcome
+
 localhost:8080/lastestrepo
 localhost:8080/olduser
 
