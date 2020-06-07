@@ -34,7 +34,7 @@ The following fields should be returned:
       html_url
       
   
-**2. Find the oldest user accounts with zero followers **
+**2. Find the oldest user accounts with zero followers**
 
 The following fields should be returned:
 
