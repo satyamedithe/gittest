@@ -12,8 +12,8 @@ Steps to run the application
 
 >>the below endpoint will give the desired outcome
 
-localhost:8080/lastestrepo
-localhost:8080/olduser
+      localhost:8080/lastestrepo
+      localhost:8080/olduser
 
 will produce the required output
 
