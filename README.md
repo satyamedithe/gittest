@@ -16,16 +16,20 @@ Endpoints
 
 /olduser
 
-1. Find the hottest repositories created in the last week
+**1. Find the hottest repositories created in the last week**
+
 The following fields should be returned:
 
-  html_url
-  watchers_count
-  language
-  description
-  name
+      html_url
+      watchers_count
+      language
+      description
+      name
   
-  2. Find the oldest user accounts with zero followers
-    id
-  login
-  html_url
+**2. Find the oldest user accounts with zero followers **
+
+The following fields should be returned:
+
+      id
+      login
+      html_url
